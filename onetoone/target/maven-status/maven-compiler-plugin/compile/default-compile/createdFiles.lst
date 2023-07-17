@@ -1,0 +1,6 @@
+com\example\onetoone\onetoone\Employee.class
+com\example\onetoone\onetoone\EmployeeRep.class
+com\example\onetoone\onetoone\EmployeeControler.class
+com\example\onetoone\onetoone\OnetooneApplication.class
+com\example\onetoone\onetoone\Address.class
+com\example\onetoone\onetoone\AddressRep.class
